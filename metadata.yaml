@@ -1,5 +1,8 @@
 _repo: Jean-Craig-Finds-Romance_65581
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65581-h/images/cover.jpg
 creator:
   author:
     agent_name: Lyttleton, Kay
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53199
     wikipedia: http://www.gutenberg.org/ebooks/author/47260
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65581#Jean-Craig-Finds-Romance
 gutenberg_issued: '2021-06-09'
 gutenberg_type: Text
 identifiers:
